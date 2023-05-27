@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705191325887",
+    "project_id": "appdb-dd5bb",
+    "storage_bucket": "appdb-dd5bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705191325887:android:e2a520322d601d0665960a",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705191325887-ui2b24k4feqok97cjj7sjp5ekmsk5t16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSl1RCyTxYF3Z2ZExUVeuUidx-dE4JLtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705191325887-ui2b24k4feqok97cjj7sjp5ekmsk5t16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
